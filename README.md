@@ -21,14 +21,14 @@ https://github.com/bilalkhann16/removebg-bot.git
 ```
 pip3 install -r /path/to/requirements.txt
 ```
-* Install the webdriver for [Firefox](https://github.com/mozilla/geckodriver/releases)
+* Webdriver for [Firefox](https://github.com/mozilla/geckodriver/releases)
 
 
 ### Executing program
 
 * Insert the names in input.txt of the image in you want to remove the background from
 ```
-img1.jpg
+andrew_selfie.jpg
 test.jpg
 helloworld.png
 ```
